@@ -1,0 +1,11 @@
+- title: Trello
+  description: Task management tool
+  image: trello.jpg
+
+- title: Mailchimp
+  description: Nice emailing tool
+  image: mailchimp.jpg
+
+- title: Pandadoc
+  description: Official docs generation tool
+  image: pandadoc.jpg

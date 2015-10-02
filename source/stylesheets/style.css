@@ -1,0 +1,39 @@
+@import url("banner.css");
+@import url("footer.css");
+@import url("avatar.css");
+@import url("card.css");
+@import url("feature.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #141414;
+  text-align: center;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mymap {
+  padding-bottom: 60px
+}
+
+hr {
+  margin-top:30px;
+  margin-bottom: 60px;
+  border-top: solid 1px #CCCCCC;
+}
+
+.get-margin {
+  margin-top: 60px
+}
+
+
+.icon-size {
+  max-width: 20px
+}
+
+.column-title {
+  color :#666666;
+  font-weight: bold;
+  font-size: 20px;
+}
