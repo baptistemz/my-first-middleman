@@ -62,21 +62,7 @@
   padding: 40px 0px;
 }
 
-.footer {
-  background-color: #333333;
-  padding: 16px;
-}
-.footer li {
-  font-size: 30px;
-  color: white;
-  margin : 0px 120px;
-  opacity: 0.7;
-}
 
-.footer li:hover {
-
-  opacity: 1;
-}
 
 .get-padding {
   padding: 20px
