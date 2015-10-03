@@ -9132,6 +9132,22 @@ button.close {
 .footer {
   margin-top: 80px; }
 
+/* line 4, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+.footer {
+  background-color: #333333;
+  padding: 16px; }
+
+/* line 8, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+.footer li {
+  font-size: 30px;
+  color: white;
+  margin: 0px 40px;
+  opacity: 0.7; }
+
+/* line 15, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+.footer li:hover {
+  opacity: 1; }
+
 /* -------------------------------------
  * Utilities classes
  * These are examples of utilities classes
