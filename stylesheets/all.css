@@ -9128,6 +9128,10 @@ button.close {
 .fa-meanpath:before {
   content: ""; }
 
+/* line 1, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+.footer {
+  margin-top: 80px; }
+
 /* -------------------------------------
  * Utilities classes
  * These are examples of utilities classes
@@ -9156,7 +9160,7 @@ button.close {
 
 /* line 1, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_avatar.scss */
 .avatar {
-  width: 30px;
+  width: 80px;
   border-radius: 50%; }
   /* line 4, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_avatar.scss */
   .avatar-bordered {
