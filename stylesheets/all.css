@@ -9128,77 +9128,81 @@ button.close {
 .fa-meanpath:before {
   content: ""; }
 
-/* line 1, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+/* line 1, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_footer.css.scss */
 .footer {
   margin-top: 80px; }
 
-/* line 4, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+/* line 4, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_footer.css.scss */
 .footer {
   background-color: #333333;
   padding: 16px; }
 
-/* line 8, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+/* line 8, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_footer.css.scss */
 .footer li {
   font-size: 30px;
   color: white;
   margin: 0px 40px;
   opacity: 0.7; }
 
-/* line 15, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_footer.css.scss */
+/* line 15, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_footer.css.scss */
 .footer li:hover {
   opacity: 1; }
+
+/* line 1, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_navbar.css.scss */
+.navbar-position {
+  position: fixed; }
 
 /* -------------------------------------
  * Utilities classes
  * These are examples of utilities classes
  * Feel free to change them and create your own
  * ------------------------------------- */
-/* line 8, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_utilities.css.scss */
+/* line 8, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_utilities.css.scss */
 .padded {
   padding-top: 5em;
   padding-bottom: 5em; }
 
-/* line 14, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_utilities.css.scss */
+/* line 14, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_utilities.css.scss */
 .bg-text {
   background: #4a4a4a; }
 
-/* line 17, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_utilities.css.scss */
+/* line 17, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_utilities.css.scss */
 .bg-email {
   background: #aeaeae; }
 
-/* line 20, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_utilities.css.scss */
+/* line 20, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_utilities.css.scss */
 .bg-twitter {
   background: #00a3e1; }
 
-/* line 23, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/layout/_utilities.css.scss */
+/* line 23, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/layout/_utilities.css.scss */
 .bg-facebook {
   background: #3b5998; }
 
-/* line 1, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_avatar.scss */
+/* line 1, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_avatar.scss */
 .avatar {
   width: 80px;
   border-radius: 50%; }
-  /* line 4, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_avatar.scss */
+  /* line 4, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_avatar.scss */
   .avatar-bordered {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border: white 1px solid; }
-  /* line 8, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_avatar.scss */
+  /* line 8, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_avatar.scss */
   .avatar-large {
     width: 50px; }
 
-/* line 1, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+/* line 1, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
 .icon-badge-container {
   position: relative;
   font-size: 20px;
   color: grey; }
 
-/* line 6, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+/* line 6, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
 .user-badge-container {
   position: relative;
   width: 30px;
   margin: 0 auto; }
 
-/* line 11, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+/* line 11, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
 .icon-badge, .user-badge {
   position: absolute;
   top: -5px;
@@ -9210,24 +9214,24 @@ button.close {
   text-align: center;
   border-radius: 50%;
   background: grey; }
-  /* line 22, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+  /* line 22, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
   .icon-badge-red, .user-badge-red {
     background: #F47B64; }
-  /* line 25, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+  /* line 25, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
   .icon-badge-green, .user-badge-green {
     background: #55CD98; }
-  /* line 28, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+  /* line 28, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
   .icon-badge-blue, .user-badge-blue {
     background: #F47B64; }
-  /* line 31, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+  /* line 31, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
   .icon-badge-black, .user-badge-black {
     background: black; }
-  /* line 34, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/components/_badge.scss */
+  /* line 34, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/components/_badge.scss */
   .icon-badge-bordered, .user-badge-bordered {
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
     border: white 1px solid; }
 
-/* line 1, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/pages/_home.scss */
+/* line 1, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/pages/_home.scss */
 .banner {
   background-image: url("https://unsplash.it/1000/400?image=0");
   padding: 50px;
@@ -9236,13 +9240,13 @@ button.close {
   position: relative;
   z-index: 10; }
 
-/* line 10, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/pages/_home.scss */
+/* line 10, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/pages/_home.scss */
 .banner-content {
   color: #FFF;
   position: relative;
   z-index: 30; }
 
-/* line 16, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/pages/_home.scss */
+/* line 16, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/pages/_home.scss */
 .banner-shadow {
   background-color: rgba(255, 0, 0, 0.5);
   position: absolute;
@@ -9274,7 +9278,7 @@ justin@justinaguilar.com
 slideDown
 ==============================================
 */
-/* line 23, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 23, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideDown {
   animation-name: slideDown;
   -webkit-animation-name: slideDown;
@@ -9302,7 +9306,7 @@ slideDown
 slideUp
 ==============================================
 */
-/* line 85, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 85, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideUp {
   animation-name: slideUp;
   -webkit-animation-name: slideUp;
@@ -9330,7 +9334,7 @@ slideUp
 slideLeft
 ==============================================
 */
-/* line 147, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 147, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideLeft {
   animation-name: slideLeft;
   -webkit-animation-name: slideLeft;
@@ -9358,7 +9362,7 @@ slideLeft
 slideRight
 ==============================================
 */
-/* line 209, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 209, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideRight {
   animation-name: slideRight;
   -webkit-animation-name: slideRight;
@@ -9386,7 +9390,7 @@ slideRight
 slideExpandUp
 ==============================================
 */
-/* line 271, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 271, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .slideExpandUp {
   animation-name: slideExpandUp;
   -webkit-animation-name: slideExpandUp;
@@ -9420,7 +9424,7 @@ slideExpandUp
 expandUp
 ==============================================
 */
-/* line 351, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 351, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandUp {
   animation-name: expandUp;
   -webkit-animation-name: expandUp;
@@ -9444,7 +9448,7 @@ expandUp
 fadeIn
 ==============================================
 */
-/* line 400, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 400, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .fadeIn {
   animation-name: fadeIn;
   -webkit-animation-name: fadeIn;
@@ -9471,7 +9475,7 @@ fadeIn
 expandOpen
 ==============================================
 */
-/* line 456, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 456, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .expandOpen {
   animation-name: expandOpen;
   -webkit-animation-name: expandOpen;
@@ -9497,7 +9501,7 @@ expandOpen
 bigEntrance
 ==============================================
 */
-/* line 512, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 512, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bigEntrance {
   animation-name: bigEntrance;
   -webkit-animation-name: bigEntrance;
@@ -9534,7 +9538,7 @@ bigEntrance
 hatch
 ==============================================
 */
-/* line 593, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 593, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .hatch {
   animation-name: hatch;
   -webkit-animation-name: hatch;
@@ -9567,7 +9571,7 @@ hatch
 bounce
 ==============================================
 */
-/* line 666, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 666, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .bounce {
   animation-name: bounce;
   -webkit-animation-name: bounce;
@@ -9597,7 +9601,7 @@ bounce
 pulse
 ==============================================
 */
-/* line 730, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 730, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pulse {
   animation-name: pulse;
   -webkit-animation-name: pulse;
@@ -9621,7 +9625,7 @@ pulse
 floating
 ==============================================
 */
-/* line 777, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 777, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .floating {
   animation-name: floating;
   -webkit-animation-name: floating;
@@ -9642,7 +9646,7 @@ floating
 tossing
 ==============================================
 */
-/* line 818, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 818, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .tossing {
   animation-name: tossing;
   -webkit-animation-name: tossing;
@@ -9663,7 +9667,7 @@ tossing
 pullUp
 ==============================================
 */
-/* line 859, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 859, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullUp {
   animation-name: pullUp;
   -webkit-animation-name: pullUp;
@@ -9695,7 +9699,7 @@ pullUp
 pullDown
 ==============================================
 */
-/* line 928, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 928, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .pullDown {
   animation-name: pullDown;
   -webkit-animation-name: pullDown;
@@ -9727,7 +9731,7 @@ pullDown
 stretchLeft
 ==============================================
 */
-/* line 997, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 997, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchLeft {
   animation-name: stretchLeft;
   -webkit-animation-name: stretchLeft;
@@ -9759,7 +9763,7 @@ stretchLeft
 stretchRight
 ==============================================
 */
-/* line 1066, /Users/user/code/baptistemz/my-first-middleman/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
+/* line 1066, /Users/user/code/baptistemz/fullstack-challenges/04-Front-End/05-Animation-tricks/04-Scroller-coaster/source/stylesheets/vendor/_animation_cheat_sheet.css.scss */
 .stretchRight {
   animation-name: stretchRight;
   -webkit-animation-name: stretchRight;
